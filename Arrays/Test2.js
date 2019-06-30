@@ -6,4 +6,5 @@ var sum = 0;
 myarr.forEach( function(item, index, array){
     sum = sum + item;
 });
+
 console.log("Sum "+sum);
